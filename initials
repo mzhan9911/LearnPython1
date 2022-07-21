@@ -1,0 +1,13 @@
+#Ming Zhang
+#I like guitar
+name = """
+M   M ZZZZZ
+MM MM    Z 
+M M M   Z  
+M   M  Z  
+M   M Z 
+M   M Z      
+M   M ZZZZZ  
+"""
+
+print(name)
